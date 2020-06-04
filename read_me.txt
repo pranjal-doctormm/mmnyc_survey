@@ -58,7 +58,7 @@
 *change value of varaible (deleteRow) in constants.pyto delete the row from spreadsheet
 *deleteRow [take row number; which we want to delete]
 *after that run Automation_delete.py
-po
+pranjal
 
 
 
