@@ -1,10 +1,10 @@
 driverPath = 'chromedriver.exe'
 gLink = "https://accounts.google.com"
 identifierElement = "identifier"
-gmailId = "pranjal@doctormm.com"
+gmailId = ""
 xpathNext = '//*[@id="identifierNext"]/span/span'
 passElement = "password"
-gmailPass = "6P4M%X2[:jVsf9)f1352@7323451"
+gmailPass = "pass"
 xpathLogin = '//*[@id="passwordNext"]/span/span'
 ssUrl = "https://docs.google.com/spreadsheets/d/17pUrPnz7D-6pjqZkpG6VmlBhj2RBC3KsSP65dXON9hk/edit#gid=0"
 
